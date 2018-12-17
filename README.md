@@ -1,9 +1,19 @@
 # Automate the Boring Stuff
+
+## Project Overview
+This repo is a documentation of going through the problems and solving them.
+
+Visit the learninglog.md to see a checklist of my progress.
+
+
+
 ## Practical Programming for Total Beginners
 
 These are my notes from working through the book
 [*Automate the boring Stuff*](https://automatetheboringstuff.com/)
 by Al Sweigart and published in 2015.
+
+The book is written for Python 3. 
 
 ### Synopsis taken from the book.
 
@@ -16,3 +26,7 @@ Everyone should learn to code, but not everyone needs to become a software engin
 - [x] Have any tedious computer task that you wish you had an intern for?
 
 Normally this would involve hours of mindless clicking and typing. But programming your computer to do it will save you time and effort.
+
+## Credits and Acknowledgments
+Forked from https://github.com/JasonMDev/automate-boring-stuff
+
