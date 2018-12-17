@@ -25,15 +25,15 @@
 - [x] Practice Questions
 
 ### Chapter 2: Flow Control
-- [ ] Boolean Values
-- [ ] Comparison Operators
-- [ ] Boolean Operators
-- [ ] Mixing Boolean and Comparison Operators
-- [ ] Elements of Flow Control
-- [ ] Program Execution
-- [ ] Flow COntrol Statements
-- [ ] Importing Modules
-- [ ] Summary
+- [x] Boolean Values
+- [x] Comparison Operators
+- [x] Boolean Operators
+- [x] Mixing Boolean and Comparison Operators
+- [x] Elements of Flow Control
+- [x] Program Execution
+- [x] Flow COntrol Statements
+- [x] Importing Modules
+- [x] Summary
 - [ ] Practise Questions
 
 ### Chapter 3: Functions
