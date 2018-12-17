@@ -34,17 +34,17 @@
 - [x] Flow COntrol Statements
 - [x] Importing Modules
 - [x] Summary
-- [ ] Practise Questions
+- [x] Practise Questions
 
 ### Chapter 3: Functions
-- [ ] def Statements with Parameters
-- [ ] Return Values and Return Statements
-- [ ] The None Value
-- [ ] Keyword Arguments
-- [ ] Local and Global Scope
-- [ ] The Global Statement
-- [ ] Exception Handling
-- [ ] A short Program: Guess the number
+- [x] def Statements with Parameters
+- [x] Return Values and Return Statements
+- [x] The None Value
+- [x] Keyword Arguments
+- [x] Local and Global Scope
+- [x] The Global Statement
+- [x] Exception Handling
+- [ ] A short Program: Guess the number (http://automatetheboringstuff.com/chapter3/#calibre_link-2189)
 - [ ] Summary
 - [ ] Practise Questions
 - [ ] Practise Project: Collatz Sequence
