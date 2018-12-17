@@ -1,28 +1,28 @@
 # Learning Log and Table of Contents
 
 ### Chapter 0: Introduction
-- [ ] Whom Is This Book For?
-- [ ] Conventions
-- [ ] What Is Programming?
-- [ ] About This Book
-- [ ] Downloading and Installing Python
-- [ ] Starting IDLE
-- [ ] How to Find Help
-- [ ] Asking Smart Programming Questions
-- [ ] Summary
+- [x] Whom Is This Book For?
+- [x] Conventions
+- [x] What Is Programming?
+- [x] About This Book
+- [x] Downloading and Installing Python
+- [x] Starting IDLE
+- [x] How to Find Help
+- [x] Asking Smart Programming Questions
+- [x] Summary
 
 ------------
 
 ## Part 1 - The Basics of Python Programming
 ### Chapter 1: Python Basics
-- [ ] Entering Expressions into the Interactive Shell
-- [ ] The Integer, Floating-Point, and String Data Types
-- [ ] String Concatenation and Replication
-- [ ] Storing Values in Variables
-- [ ] Your First Program
-- [ ] Dissecting Your Program
-- [ ] Summary
-- [ ] Practice Questions
+- [x] Entering Expressions into the Interactive Shell
+- [x] The Integer, Floating-Point, and String Data Types
+- [x] String Concatenation and Replication
+- [x] Storing Values in Variables
+- [x] Your First Program
+- [x] Dissecting Your Program
+- [x] Summary
+- [x] Practice Questions
 
 ### Chapter 2: Flow Control
 - [ ] Boolean Values

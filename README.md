@@ -5,8 +5,6 @@ This repo is a documentation of going through the problems and solving them.
 
 Visit the learninglog.md to see a checklist of my progress.
 
-
-
 ## Practical Programming for Total Beginners
 
 These are my notes from working through the book
@@ -29,4 +27,9 @@ Normally this would involve hours of mindless clicking and typing. But programmi
 
 ## Credits and Acknowledgments
 Forked from https://github.com/JasonMDev/automate-boring-stuff
+Using this guide to help me learn GIT: http://rogerdudler.github.io/git-guide/
+    git add *
+    git commit -m "Commit message"
+    git push origin master
 
+    https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286
