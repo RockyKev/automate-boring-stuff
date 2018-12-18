@@ -44,10 +44,10 @@
 - [x] Local and Global Scope
 - [x] The Global Statement
 - [x] Exception Handling
-- [ ] A short Program: Guess the number (http://automatetheboringstuff.com/chapter3/#calibre_link-2189)
-- [ ] Summary
-- [ ] Practise Questions
-- [ ] Practise Project: Collatz Sequence
+- [x] A short Program: Guess the number 
+- [x] Summary
+- [x] Practise Questions
+- [x] Practise Project: Collatz Sequence
 
 ### Chapter 4: Lists
 - [ ] The List Data Type
