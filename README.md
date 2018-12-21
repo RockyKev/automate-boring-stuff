@@ -27,9 +27,10 @@ Normally this would involve hours of mindless clicking and typing. But programmi
 
 ## Credits and Acknowledgments
 Forked from https://github.com/JasonMDev/automate-boring-stuff
+
 Using this guide to help me learn GIT: http://rogerdudler.github.io/git-guide/
-    git add *
-    git commit -m "Commit message"
-    git push origin master
+    - git add *    
+    - git commit -m "Commit message"
+    - git push origin master
 
     https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286

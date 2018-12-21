@@ -50,16 +50,17 @@
 - [x] Practise Project: Collatz Sequence
 
 ### Chapter 4: Lists
-- [ ] The List Data Type
-- [ ] Working with Lists
-- [ ] Augmented Assignment Operator
-- [ ] Methods
-- [ ] Example Program: Magic 8 Ball with a list
-- [ ] List-like Types: Strings and Tuples
-- [ ] References
-- [ ] Summary
-- [ ] Practice Project: Comma Code
+- [x] The List Data Type
+- [x] Working with Lists
+- [x] Augmented Assignment Operator
+- [x] Methods
+- [x] Example Program: Magic 8 Ball with a list
+- [x] List-like Types: Strings and Tuples
+- [x] References
+- [x] Summary
+- [x] Practice Project: Comma Code
 - [ ] Practice Project: Character Picture Grid
+https://automatetheboringstuff.com/chapter4/#calibre_link-2366
 
 ### Chapter 5: Dictionaries and Structuring Data
 - [ ] The Dictionary Data Type
